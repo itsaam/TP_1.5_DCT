@@ -1,7 +1,7 @@
 # §7 — Conception détaillée par module
 
 **Projet** : SupEvents
-**Auteurs** : Samy Abdelmalek, Tristan Sanjuan, Saam
+**Auteurs** : Samy Abdelmalek, Tristan Sanjuan
 **Date** : 2026-04-29
 **Modules retenus** : `TicketModule` (métier complexe), `NotificationModule` (orchestration asynchrone), `AuthModule` (transverse)
 
